@@ -41,3 +41,27 @@ It is designed as a **learning resource** and a **portfolio showcase**.
 | Encapsulation | `encapsulation.cpp` | Demonstrates encapsulation |
 
 ---
+## 🛠️ How to Run
+
+Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/cpp-programs.git
+---
+
+## 🎯 Purpose
+- Strengthen understanding of C++ basics
+- Practice data structures and algorithms
+- Showcase clean, well‑documented code for recruiters and collaborators
+
+---
+## 📌 Notes
+- Each program is self‑contained and can be compiled/run independently.
+- Code is written in a beginner‑friendly style with clear function separation.
+- Ideal for students, interview preparation, and portfolio building.
+
+---
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to fork the repo, add new programs, or improve documentation.
+
+---

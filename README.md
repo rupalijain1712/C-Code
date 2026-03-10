@@ -41,9 +41,3 @@ It is designed as a **learning resource** and a **portfolio showcase**.
 | Encapsulation | `encapsulation.cpp` | Demonstrates encapsulation |
 
 ---
-
-## 🛠️ How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/cpp-programs.git

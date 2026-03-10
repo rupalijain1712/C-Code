@@ -43,9 +43,8 @@ It is designed as a **learning resource** and a **portfolio showcase**.
 ---
 ## 🛠️ How to Run
 
-Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/cpp-programs.git
+Clone the repository: git clone https://github.com/rupalijain1712/cpp-programs.git
+
 ---
 
 ## 🎯 Purpose
@@ -54,6 +53,7 @@ Clone the repository:
 - Showcase clean, well‑documented code for recruiters and collaborators
 
 ---
+
 ## 📌 Notes
 - Each program is self‑contained and can be compiled/run independently.
 - Code is written in a beginner‑friendly style with clear function separation.
